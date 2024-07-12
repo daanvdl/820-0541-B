@@ -12,9 +12,9 @@ This board supplies the standard Mac monitor port – DB-15.
 
 This is a 1-1 reproduction of the Apple 820-0541-B Monitor Out Board. The board can replace the 820-0541-A board which h
 
-<img src="/Images/board.jpg" style="zoom:50%;" />
+<img src="/Images/board.jpg" style="zoom:20%;" />
 
-## 
+
 
 ## Board
 
